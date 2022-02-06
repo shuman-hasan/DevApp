@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 30vh;
+    margin-top: 25%;
+}
+
+.footer ul{
+    display: flex;
+}
+.footer ul li{
+    list-style: none;
+    margin-top: 50px;
+    padding-left: 20px;
+    
+}
+.footer ul li a{
+    color: #fff;
+    text-decoration: none;
+    
+}
