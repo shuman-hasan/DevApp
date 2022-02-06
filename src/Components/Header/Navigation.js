@@ -7,10 +7,7 @@ import {
   Nav,
   NavItem,
   NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem } from 'reactstrap';
+  } from 'reactstrap';
 
 export default class Example extends React.Component {
   constructor(props) {
@@ -51,6 +48,10 @@ export default class Example extends React.Component {
               </NavItem>
               <NavItem>
                 <NavLink href="#">LogIn</NavLink>
+              </NavItem>
+
+              <NavItem>
+                <NavLink href="#">SiteMap</NavLink>
               </NavItem>
               
             </Nav>
