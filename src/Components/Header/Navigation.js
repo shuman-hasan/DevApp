@@ -44,10 +44,10 @@ export default class Example extends React.Component {
                 <NavLink href="#">Services</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#">Sign Up</NavLink>
+                <NavLink href="#">Signup</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#">LogIn</NavLink>
+                <NavLink href="#">Login</NavLink>
               </NavItem>
 
               <NavItem>
